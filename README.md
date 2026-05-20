@@ -1,11 +1,11 @@
 # Senior Portfolio
 
 ## Portfolio Overview
-Welcome to my Senior Portfolio! I put this repository together to wrap up the "Writing in the Discipline" and "Signature Work" requirements for my time at St. Thomas. 
+I put this repository together to wrap up the "Writing in the Discipline" and "Signature Work" requirements for my time at St. Thomas. 
 
-Instead of just picking a few random assignments, I chose three projects that I'm genuinely proud of and that really show how much I've grown as a developer. Inside, you'll find a mix of different technologies—from a React-based task manager to a full-stack fitness tracker, and even a webcam-controlled 3D swimming simulation. 
+I chose three projects that I've learned the most from. Inside, you'll find a mix of different technologies from a React-based task manager to a full-stack fitness tracker and a webcam-controlled 3D swimming simulation. 
 
-I feel like these projects do a great job of capturing the St. Thomas mission of using what we learn to build things that are actually useful and positive for others—whether that means helping someone stay organized, helping them hit their fitness goals, or just creating a fun, interactive experience.
+I feel like these projects do a great job of capturing the St. Thomas mission of using what we learn to build things that are actually useful and positive for others—whether that means helping someone stay organized, helping them hit their fitness goals or just creating a fun and interactive experience.
 
 ## Swim Sim
 **Repository:** https://github.com/dsnyder8/SwimSim-main/tree/main/SwimSim-main  
