@@ -14,7 +14,9 @@ What sets Swim Sim apart is its control scheme: the default input method uses ml
 **Repository:** https://github.com/dsnyder8/IntroductionToReact  
 
 **Overview:**  
-Will need to fill this in. We can go back don't worry about this for right now. 
+Built for CISC 375, this task manager serves as a practical exploration of React's core features. Using React 19.2 and Vite, the application provides a clean, responsive interface where users can add, view, complete, and delete their daily tasks. 
+
+Beyond the basic functionality, the project was an exercise in modern React architecture. It focuses on breaking down the UI into modular JSX components (like the Header and Body) and managing form data through controlled inputs. Under the hood, it relies heavily on `useState` hooks for managing the task list, enforcing best practices like immutable state updates and using stable keys for efficient list rendering.
 
 ---
 
